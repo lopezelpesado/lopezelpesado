@@ -6,10 +6,11 @@ I started learning HTML, CSS and JavaScript with [Founders and Coders](https://w
 
 ## Projects ⌨
 
-- [kindCode Agency](https://fac22.github.io/kindcode/), I worked on this with [@cemalokten](https://github.com/cemalokten) as part of FAC's apprenticeship programme 🤖
-- [Founders and Coders Application Website](https://lopezelpesado.github.io/application-website/), this was the first website I made and was part of the application requirements for getting on to FAC's apprenticeship programme 🖥
-- [MTG Life Counter App](https://lopezelpesado.github.io/mtgLifeApp/), a web app to track life totals in [Magic: The Gathering](https://mtg.fandom.com/wiki/Magic:_The_Gathering) (MTG) 🃏
-- [MTG Booster Simulator](https://fac22.github.io/michaelAlexAPI/), a web app that generates a booster pack from a given MTG set which I worked on with [@MJOW1999](https://github.com/MJOW1999) as part of FAC's apprenticeship programme 🎲
+- [kindCode Agency](https://fac22.github.io/kindcode/) ([repo](https://github.com/fac22/kindcode)), I worked on this with [@cemalokten](https://github.com/cemalokten) as part of FAC's apprenticeship programme 🤖
+- [Founders and Coders Application Website](https://lopezelpesado.github.io/application-website/) ([repo](https://github.com/lopezelpesado/application-website)), this was the first website I made and was part of the application requirements for getting on to FAC's apprenticeship programme 🖥
+- [MTG Life Counter App](https://lopezelpesado.github.io/mtgLifeApp/) ([repo](https://github.com/lopezelpesado/mtgLifeApp)), a web app to track life totals in [Magic: The Gathering](https://mtg.fandom.com/wiki/Magic:_The_Gathering) (MTG) 🃏
+- [Cooolours](https://lopezelpesado.github.io/cooolours/) ([repo](https://github.com/lopezelpesado/cooolours)), a random colour scheme generator **heavily** inspired by coolors.co 🎨
+- [MTG Booster Simulator](https://fac22.github.io/michaelAlexAPI/) ([repo](https://github.com/fac22/michaelAlexAPI)), a web app that generates a booster pack from a given MTG set which I worked on with [@MJOW1999](https://github.com/MJOW1999) as part of FAC's apprenticeship programme 🎲
 
 ## Profiles 👨
 
